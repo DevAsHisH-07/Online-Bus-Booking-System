@@ -1,0 +1,1 @@
+Add the images in the img folder and paste it to the asset folder of ur frontend project.
